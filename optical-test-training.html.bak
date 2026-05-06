@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optical Test Engineer Training - CIE 1931</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            margin: 0;
+        }
+        h1 {
+            color: #0066cc;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .simulation {
+            border: 2px solid #ddd;
+            padding: 20px;
+            text-align: center;
+            margin: 30px 0;
+        }
+        .video-container {
+            margin: 20px auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Optical Test Engineer Training: CIE 1931</h1>
+
+    <section class="section" id="introduction">
+        <h2>Introduction to CIE 1931</h2>
+        <p>
+            The CIE 1931 color space is fundamental to modern color measurement and analysis. 
+            It was developed by the International Commission on Illumination (CIE) in 1931 to 
+            represent human color perception using standard observers.
+        </p>
+    </section>
+
+    <section class="section" id="color-matching">
+        <h2>Color Matching Functions</h2>
+        <p>
+            The CIE 1931 breaks down the spectrum into three primary components: X, Y, and Z. 
+            Below is an example of how these components map to standard color wavelengths.
+        </p>
+        <!-- Placeholder for animated graph -->
+        <div class="simulation" id="color-matching-simulation">
+            <p>[Interactive Color Matching Graph Placeholder]</p>
+        </div>
+    </section>
+
+    <section class="section" id="chromaticity">
+        <h2>Chromaticity Diagram</h2>
+        <p>
+            The chromaticity diagram is a critical tool for analyzing colors and interpreting 
+            results. Engineers use this for calibration and measurement systems.
+        </p>
+        <div class="simulation" id="chromaticity-simulation">
+            <p>[Interactive Chromaticity Diagram Placeholder]</p>
+        </div>
+    </section>
+
+    <section class="section" id="applications">
+        <h2>Applications in Optical Engineering</h2>
+        <p>
+            Optical Test Engineers utilize CIE 1931 for calibration, spectroradiometers, and 
+            ensuring color consistency. It is especially useful in display technology and 
+            LEDs.
+        </p>
+        <!-- Placeholder for instructional video -->
+        <div class="video-container">
+            <p>[Video Placeholder: CIE 1931 Applications]</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>
+            Created for educational purposes. Hosted at <a href="https://github.com/HuyNS/Curtis.git">Curtis GitHub</a>.
+        </p>
+    </footer>
+</body>
+</html>
